@@ -1,1 +1,1 @@
-<h1>Chicago Data Porta Project</h1>
+<h1>Chicago Data Portal Project</h1>
