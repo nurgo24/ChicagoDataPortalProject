@@ -10,4 +10,5 @@ Using datasets from the Chicago Data Portal—including school locations, afford
 
 - Python (Pandas, GEOPandas, Altair)
 - Google Colab
-- 
+- Chicago Data Portal
+- Data cleaning and visualization
