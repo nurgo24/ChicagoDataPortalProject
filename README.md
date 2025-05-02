@@ -12,3 +12,12 @@ Using datasets from the Chicago Data Portal—including school locations, afford
 - Google Colab
 - Chicago Data Portal
 - Data cleaning and visualization
+
+<h2>Project walkthrough:</h2>
+
+Loading in the CSV files with the school and housing data in Chicago.
+<img width="1372" alt="Screenshot 2025-05-02 at 12 14 11 PM" src="https://github.com/user-attachments/assets/37d4a49c-fa5c-44e8-aaaa-02cb105f27b7" />
+
+Loading in the geojson data showing the boundaries of each district in Chicago. 
+<img width="1377" alt="Screenshot 2025-05-02 at 12 18 24 PM" src="https://github.com/user-attachments/assets/28bb51a1-c171-4d0d-9149-eceddfec40f1" />
+
