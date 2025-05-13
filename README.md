@@ -21,3 +21,4 @@ Loading in the CSV files with the school and housing data from the Chicago Data 
 Loading in the geojson data showing the boundaries of different neighborhoods in Chicago. 
 <img width="1377" alt="Screenshot 2025-05-02 at 12 18 24 PM" src="https://github.com/user-attachments/assets/28bb51a1-c171-4d0d-9149-eceddfec40f1" />
 
+Creating static and interactive visualizations to show the data. 
