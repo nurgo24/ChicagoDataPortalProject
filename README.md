@@ -33,5 +33,5 @@ Creating static and interactive visualizations to show the data using Altair.
 <img width="1372" alt="Screenshot 2025-05-13 at 1 01 17 PM" src="https://github.com/user-attachments/assets/2508db0d-28d5-4962-88d2-02b3185b3251" />
 <img width="1362" alt="Screenshot 2025-05-13 at 1 02 09 PM" src="https://github.com/user-attachments/assets/56765d23-166c-472b-9099-4970c6c891ab" />
 
-Finally, creating a dashboard with the different static and interactive visualizations to present the findings. 
+Finally, creating a dashboard using Google Slides to present the findings. 
 <img width="1060" alt="Screenshot 2025-05-13 at 1 06 27 PM" src="https://github.com/user-attachments/assets/89e7ee7b-b8e1-477e-b2e6-0d7c78e3525c" />
