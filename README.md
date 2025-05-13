@@ -24,3 +24,14 @@ Have to load in the geojson data showing the boundaries of different neighborhoo
 <img width="1366" alt="Screenshot 2025-05-13 at 12 32 21 PM" src="https://github.com/user-attachments/assets/136fffc9-eae8-470d-9011-94ef541c34c9" />
 
 Creating static and interactive visualizations to show the data using Altair. 
+<img width="1372" alt="Screenshot 2025-05-13 at 12 37 27 PM" src="https://github.com/user-attachments/assets/6e4c0ef5-84a3-4a51-a600-e0d67a494f13" />
+<img width="1368" alt="Screenshot 2025-05-13 at 12 40 41 PM" src="https://github.com/user-attachments/assets/76eb724c-286a-4923-946a-25adaec8b157" />
+<img width="1371" alt="Screenshot 2025-05-13 at 12 54 31 PM" src="https://github.com/user-attachments/assets/9e4e14dd-77a8-4b28-b44d-1f448dfb8e08" />
+<img width="1363" alt="Screenshot 2025-05-13 at 12 56 19 PM" src="https://github.com/user-attachments/assets/21f753a5-e954-4b87-8b05-64a90f61df09" />
+<img width="1372" alt="Screenshot 2025-05-13 at 12 59 30 PM" src="https://github.com/user-attachments/assets/2a404042-1d30-44dd-99bb-fd7b3c854108" />
+<img width="1367" alt="Screenshot 2025-05-13 at 1 00 10 PM" src="https://github.com/user-attachments/assets/68250450-21ab-46b2-a768-bc2d82d0f55f" />
+<img width="1372" alt="Screenshot 2025-05-13 at 1 01 17 PM" src="https://github.com/user-attachments/assets/2508db0d-28d5-4962-88d2-02b3185b3251" />
+<img width="1362" alt="Screenshot 2025-05-13 at 1 02 09 PM" src="https://github.com/user-attachments/assets/56765d23-166c-472b-9099-4970c6c891ab" />
+
+Finally, creating a dashboard with the different static and interactive visualizations to present the findings. 
+<img width="1060" alt="Screenshot 2025-05-13 at 1 06 27 PM" src="https://github.com/user-attachments/assets/89e7ee7b-b8e1-477e-b2e6-0d7c78e3525c" />
