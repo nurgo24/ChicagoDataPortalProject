@@ -18,7 +18,9 @@ Using datasets from the Chicago Data Portal—including school locations, afford
 Loading in the CSV files with the school and housing data from the Chicago Data Portal.
 <img width="1372" alt="Screenshot 2025-05-02 at 12 14 11 PM" src="https://github.com/user-attachments/assets/37d4a49c-fa5c-44e8-aaaa-02cb105f27b7" />
 
-Loading in the geojson data showing the boundaries of different neighborhoods in Chicago. 
+Have to load in the geojson data showing the boundaries of different neighborhoods in Chicago so that we can . 
 <img width="1377" alt="Screenshot 2025-05-02 at 12 18 24 PM" src="https://github.com/user-attachments/assets/28bb51a1-c171-4d0d-9149-eceddfec40f1" />
+<img width="1361" alt="Screenshot 2025-05-13 at 12 31 00 PM" src="https://github.com/user-attachments/assets/333e620c-6207-4b6c-83df-5bd0d69ea450" />
+<img width="1366" alt="Screenshot 2025-05-13 at 12 32 21 PM" src="https://github.com/user-attachments/assets/136fffc9-eae8-470d-9011-94ef541c34c9" />
 
-Creating static and interactive visualizations to show the data. 
+Creating static and interactive visualizations to show the data using Altair. 
